@@ -156,7 +156,7 @@ Click on name to visit Github Account
 
 ## 🔗 Linkedin
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-arshad-khan-350206154/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikesh-borkar/)
 
 
 [MD Arshad Khan](https://www.linkedin.com/in/md-arshad-khan-350206154/), 
@@ -168,8 +168,8 @@ Click on name to visit Github Account
 
 ## Authors
 Click the name to visit their Github Profile
-- [MD Arshad Khan](https://github.com/mdarshadkhan1998)
+- [Nikesh Borkar](https://github.com/NikeshBorkar)
 
 ## Support
 
-For support, email - [mdarshadkhan1998@gmail.com](mdarshadkhan1998@gmail.com)
+For support, email - [nikeshborkar008@gmail.com](nikeshborkar008@gmail.com)
