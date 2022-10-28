@@ -21,7 +21,7 @@ We completed this project within a week.
 - Icons : [Reacct-Font Awesome](https://fontawesome.com/)
 - References : [MDN Docs](https://developer.mozilla.org/en-US/) | [W3School](https://www.w3schools.com/) | [React](https://reactjs.org/) | [React Redux](https://react-redux.js.org/)
 
-## Tech Stack
+## 🛠 Tech Stack
 - React
 - Redux
 - HTML 5
@@ -45,23 +45,6 @@ We completed this project within a week.
 - Payment Page.
 - Media query for All Size Screen.
 
-## Credits
-
-- Images : [bobbibrowncosmetics.com](https://www.bobbibrowncosmetics.com/)
-- Content : [bobbibrowncosmetics.com](https://www.bobbibrowncosmetics.com/)
-- CSS Library: [Bootstrap](https://getbootstrap.com/) | [Tailwind CSS](https://tailwindcss.com/)
-- Icons : [Reacct-Font Awesome](https://fontawesome.com/)
-- References : [MDN Docs](https://developer.mozilla.org/en-US/) | [W3School](https://www.w3schools.com/) | [React](https://reactjs.org/) | [React Redux](https://react-redux.js.org/)
-
-## 🛠 Tech Stack
-
-- React
-- Redux
-- HTML
-- CSS
-- Javascript
-- CSS Library — Bootstrap. …Tailwind CSS. …
-- Github
 
 ## Screenshots of our Project for Overview
 
