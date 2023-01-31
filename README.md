@@ -147,7 +147,7 @@ Click on name to visit Github Account
 [Shivanshu Chobey](https://www.linkedin.com/in/shivanshu5998/), 
 [Yogesh Kumar](https://www.linkedin.com/in/yogeshkumar21101995/), 
 [Nikesh Borkar](https://www.linkedin.com/in/nikesh-borkar/),
-[Rahul Kumar](https://www.linkedin.com/in/md-arshad-khan-350206154/)
+[Rahul Kumar](https://www.linkedin.com/in/rahul-kumar-42b196233/)
 
 ## Authors
 Click the name to visit their Github Profile
